@@ -1,5 +1,5 @@
 {
-  "name": "rs/module-base",
+  "name": "rsmage/module-base",
   "description": "Base Module",
   "require": {
     "php": "~5.6.0|~7.0.0|~7.1.3|~7.2.0"
